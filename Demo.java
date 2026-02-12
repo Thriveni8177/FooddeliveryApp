@@ -1,5 +1,5 @@
-public class substring {
-	public static void main (String []args){
-		System.out.println("hello");
-	}
+public class Demo{
+public static void main(string[] args){
+System.out.println("hello");
+}
 }
